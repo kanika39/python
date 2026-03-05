@@ -87,7 +87,7 @@ plt.show()
 ```
 
 ### Results:
-![Visualisation Of Top Skills for Data Ners](Images\skill_demand.png)
+![Visualisation Of Top Skills for Data Ners](Images/skill_demand.png)
 
 ### Insights:
 - Python is a versatile skill, highly demanded across all three roles, but most prominently for Data Scientists (72%) and Data Engineers (65%).
@@ -113,7 +113,7 @@ plt.show()
 ```
 
 ### Results
-![Trending Top Skills For Data Analysts in India](Images\skills_trend.png)
+![Trending Top Skills For Data Analysts in India](Images/skills_trend.png)
 
 *Bar graph visualizing the trending top skills for data analysts in the India in 2023.*
 
@@ -138,7 +138,7 @@ plt.show()
 ```
 
 ### Results
-![Salary Distributions of Data Jobs in India](Images\salary_analysis.png)
+![Salary Distributions of Data Jobs in India](Images/salary_analysis.png)
 
 ### Insights
 
@@ -168,7 +168,7 @@ plt.show()
 #### Results
 Here's the breaksown of the Highest paid and most in demand skills for Data analysts in India:
 
-![The Highest paid and most in demand skills for Data analysts in India](Images\Highest_paid_and_most_in_demand_skills_for_Data_analysts_in_India.png)
+![The Highest paid and most in demand skills for Data analysts in India](Images/Highest_paid_and_most_in_demand_skills_for_Data_analysts_in_India.png)
 *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the U.S.*
 
 ### Insights:
@@ -197,7 +197,7 @@ plt.show()
 
 #### Results
 
-![Most Optimal Skills for Data Analysts in India](Images\optimal_skill.png)
+![Most Optimal Skills for Data Analysts in India](Images/optimal_skill.png)
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the U.S.*
 
 #### Insights
